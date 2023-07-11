@@ -4,13 +4,18 @@ Upstream-Contact: Matt Mastracci <matthew@mastracci.com>
 Source: https://github.com/mmastrac/rust-ctor
 
 Files: *
-Copyright: 2018-2022 Matt Mastracci <matthew@mastracci.com>
+Copyright: FIXME (overlay) UNKNOWN-YEARS Matt Mastracci <matthew@mastracci.com>
 License: Apache-2.0 or MIT
+Comment:
+ FIXME (overlay): Since upstream copyright years are not available in
+ Cargo.toml, they were extracted from the upstream Git repository. This may not
+ be correct information so you should review and fix this before uploading to
+ the archive.
 
 Files: debian/*
 Copyright:
  2019-2022 Debian Rust Maintainers <pkg-rust-maintainers@alioth-lists.debian.net>
- 2019 Robin Krahl <robin.krahl@ireas.org>
+ 2019-2022 Robin Krahl <robin.krahl@ireas.org>
 License: Apache-2.0 or MIT
 
 License: Apache-2.0
